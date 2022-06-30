@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=EpsteinKim`s%20Github&fontSize=60)
 
-### Back-End Developer
+### Full-Stack Developer
 
 Tech Blog 💻
 
